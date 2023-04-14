@@ -1,2 +1,2 @@
 #reqirments 
-snowflake-Connetor-Python
+snowflake-connector-python
