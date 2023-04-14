@@ -1,6 +1,7 @@
 import streamlit
 import pandas
 import requests
+from urllib.error import  URLError
 
 
 streamlit.title('My parents New heathly dinner')
