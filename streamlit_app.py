@@ -36,14 +36,14 @@ try:
   else:
     back_from_function = get_fruityvice_data(fruit_choice)
     streamlit.dataframe(back_from_function)
-
-
+    
+streamlit.stop()
 
 # streamlit.text(fruityvice_response.json())
 # write your own comment -what does the next line do? 
 
 # write your own comment - what does this do?
-streamlit.stop()
+
 
 import snowflake.connector
 
