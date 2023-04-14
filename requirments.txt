@@ -1,0 +1,2 @@
+#reqirments 
+snowflake-Connetor-Python
